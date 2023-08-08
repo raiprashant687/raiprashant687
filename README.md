@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raiprashant687
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python and looking forward to persue my career in Python Programming
+- 🌱 I’m trying to pythonise my way of living
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at 7053334741
 
